@@ -1,2 +1,4 @@
 
-["home", "phones", "laptops", "registration", "login"];
+[
+    "home", "phones", "laptops", "registration", "login"
+]

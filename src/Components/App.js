@@ -1,11 +1,17 @@
 import React from "react";
+import Header from "./header/Header";
+import Main from "./main/main";
 
 const App = () => {
-  return <h2>Hello Shop</h2>;
+  return (
+    <>
+      <Header />
+      <Main />
+    </>
+  );
 };
 
 export default App;
-
 
 
 //rafce создание того что выше
